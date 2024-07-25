@@ -2,13 +2,13 @@
 
 Sistem Informasi TBL
 
-Login Admin:
+Login Admin :
 
 Email : admin@gmail.com
 
 Password : admin
 
-Login Customer:
+Login Customer :
 
 Email : customer@gmail.com
 
